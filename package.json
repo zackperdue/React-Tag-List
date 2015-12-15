@@ -1,0 +1,32 @@
+{
+  "name": "react-tag-list",
+  "version": "1.0.0",
+  "description": "Tag List React Component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zackperdue/React-Tag-List.git"
+  },
+  "keywords": [
+    "react-component",
+    "react",
+    "tags",
+    "list"
+  ],
+  "author": "Zack Perdue <zack@ziggidycreative.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.3.17",
+    "babel-loader": "^6.2.0",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
+    "webpack": "^1.12.9"
+  },
+  "dependencies": {
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3"
+  }
+}
